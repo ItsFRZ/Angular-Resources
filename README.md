@@ -1,5 +1,5 @@
 # Angular-Resources
-###This Repository Contains Cheat-sheets ,Links ,Documents ,Everything Related To Angular
+### This Repository Contains Cheat-sheets ,Links ,Documents ,Everything Related To Angular
 
 ##### A simple guide for angular ui  
 ####  Contents
@@ -14,5 +14,7 @@
 
 
 
+<br><br>
+<br><br>
 <br><br>
 ###### More content will be added
