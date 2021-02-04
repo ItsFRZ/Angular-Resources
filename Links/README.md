@@ -11,6 +11,10 @@
 &nbsp;&nbsp;&nbsp;&nbsp; * Angular Typewriter Effect  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;		+ [Library](https://www.npmjs.com/package/angular-typewriter-effect)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;		+ [Tutorial](https://www.youtube.com/watch?v=AufiLdeCasg)  
+<br>  
+&nbsp;&nbsp;&nbsp;&nbsp; * Angular Ripple Effect  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;		+ [Library](https://www.npmjs.com/package/angular-ripple-effect-lib)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;		+ [Demo](https://angular-zfq7kb.stackblitz.io/)
 <br>
 			 
 	
