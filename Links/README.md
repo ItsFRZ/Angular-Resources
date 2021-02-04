@@ -15,11 +15,14 @@
 &nbsp;&nbsp;&nbsp;&nbsp; * Angular Ripple Effect  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;		+ [Library](https://www.npmjs.com/package/angular-ripple-effect-lib)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;		+ [Demo](https://angular-zfq7kb.stackblitz.io/)
-<br>  
-<br>  
+<br>    
 &nbsp;&nbsp;&nbsp;&nbsp; * Angular Parallax Effect  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;		+ [Library](http://pixelcog.github.io/parallax.js/)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;		+ [Tutorial](https://www.youtube.com/watch?v=vqdSVqHQdQs)
 <br>
-			 
+&nbsp;&nbsp;&nbsp;&nbsp; * Angular Lottie Animation Effect  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;		+ [Library](https://www.npmjs.com/package/ng-lottie)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;		+ [Demo](https://chenqingspring.github.io/ng-lottie/demo/)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;		+ [Lottie](https://lottiefiles.com/)  
+<br>		 
 	
